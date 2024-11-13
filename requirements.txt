@@ -1,0 +1,11 @@
+scikit-learn
+streamlit
+flask
+pymongo
+pandas
+numpy==1.26.0
+requests
+plotly
+streamlit-option-menu 
+streamlit-aggrid
+flask_cors
